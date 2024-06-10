@@ -16,16 +16,16 @@ Avant de commencer, assurez-vous d'avoir installé les bibliothèques suivantes 
 
 ![Capture Page Web](https://github.com/mustaphaoulhaj/Web_scraping_Python/assets/127968969/8ee503d4-9706-4e14-9b02-761ae90fee50)
 
-**1)- Téléchargement du Contenu de la Page :** : 
+**1)- Téléchargement du contenu de la page :** : 
 Nous commençons par télécharger le contenu HTML de la page en utilisant la bibliothèque **Requests**. Nous vérifions ensuite l'accessibilité de la page (code de réponse 200). Il est important de noter que certains sites web n'autorisent pas le scraping pour des raisons de conformité au RGPD.
 
-**2)- Analyse du Contenu HTML :**
+**2)- Analyse du contenu HTML :**
 Nous analysons le contenu HTML à l'aide de la bibliothèque **BeautifulSoup**.
 
-**3)- Extraction des Données :**
+**3)- Extraction des données :**
 Nous extrayons les données des hôtels en ciblant les balises HTML spécifiques contenant les informations souhaitées. Pour identifier une balise spécifique, il suffit de sélectionner la donnée à extraire, de faire un clic droit, puis de cliquer sur "Inspecter" pour afficher la balise correspondante.
 
-**4)- Enregistrement des Données dans un Fichier Excel :**
+**4)- Enregistrement des Données :**
 Nous sauvegardons les données extraites dans un fichier Excel 
 
 ## Résultats
