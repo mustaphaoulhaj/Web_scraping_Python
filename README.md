@@ -33,4 +33,4 @@ Vous pouvez consulter le script Python ainsi que la base de données extraite au
 
 
 ## Conclusion
-Le web scraping est essentiel pour extraire, traiter et analyser des données à jour à partir de sites web. Pour ce projet, nous avons utilisé la bibliothèque **BeautifulSoup**, mais d'autres outils comme **Selenium** peuvent aussi être utilisés. Cela montre l'importance de l'automatisation dans la collecte de données actuelles et la facilité avec laquelle nous pouvons les analyser pour prendre des décisions éclairées.
+Le web scraping est essentiel pour extraire, traiter et analyser des données à jour à partir de sites web. Pour ce projet, nous avons utilisé la bibliothèque **BeautifulSoup**, mais d'autres librairies comme **Selenium** peuvent aussi être utilisés. Cela montre l'importance de l'automatisation dans la collecte de données actuelles et la facilité avec laquelle nous pouvons les analyser pour prendre des décisions éclairées.
